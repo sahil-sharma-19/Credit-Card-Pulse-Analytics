@@ -57,43 +57,57 @@ The sample data structure includes fields commonly tracked in financial institut
 
 ## Key Insights
 - *Blue Card Dominance*
+  
 The Blue card category overwhelmingly drives revenue ($46M out of $55M total), far outpacing Silver, Gold, and Platinum tiers. Business strategies should prioritize Blue card engagement, upsell options, and retention.
 
-Customer Segmentation Drives Revenue
+- *Customer Segmentation Drives Revenue*
+  
 Businessmen are the single largest revenue-contributing customer segment ($17.4M), followed by white-collar professionals and self-employed individuals. Targeted marketing toward these groups can yield higher returns.
 
-Education Level Matters
+- *Education Level Matters*
+  
 Graduates and high school-educated customers contribute to the largest proportion of card revenue ($22.3M and $11.1M, respectively), emphasizing the importance of appealing offers and engagement for educated segments.
 
-Transaction Mode Insights
+- *Transaction Mode Insights*
+  
 Majority of card revenue comes from swipe transactions ($34.9M), followed by chip ($17M) and then online usage, revealing strong customer preference for in-person transactions. There is an opportunity to drive digital engagement and adoption.
 
-Weekly & Quarterly Trends Expose Seasonality
+- *Weekly & Quarterly Trends Expose Seasonality*
+  
 Both weekly and quarterly splits reveal fluctuating revenue and transaction counts, supporting seasonal campaign strategies or capacity planning for periods of heightened activity.
 
-High Revenue Expense Categories
+- *High Revenue Expense Categories*
+  
 Bills, entertainment, and fuel are the top expense types for card transactions. Special promotions in these categories can maximize revenue and customer engagement.
 
-Churn & Risk Profiling
+- *Churn & Risk Profiling*
+  
 The dashboards allow clear identification of customer churn drivers, churn rates by demographic and card type, and risk segments—empowering the business to focus retention on high-value, high-risk groups.
 
-Geographic & Demographic Targeting
+- *Geographic & Demographic Targeting*
+  
 Certain states and income groups consistently deliver higher revenue, and marital status shows that married and single segments contribute nearly equally but in substantial volume. These insights can guide location-based offers and product design.
 
-Strategic Impacts
-Revenue Optimization
+## Strategic Impacts
+
+- *Revenue Optimization*
+  
 By identifying top-performing card types, customer professions, and usage modes, management can fine-tune product offerings and cross-sell strategies, ensuring that high-yield segments are retained and expanded.
 
-Customer Retention & Growth
+- *Customer Retention & Growth*
+  
 Churn analysis and at-risk customer profiling guide proactive campaigns—retaining valuable cardholders and reducing loss to competitors.
 
-Financial Planning & Resource Allocation
+- *Financial Planning & Resource Allocation*
+  
 Time-based revenue analytics (weekly, quarterly) enable better campaign timing, staffing, and resource investment, aligning business decisions to observed seasonality.
 
-Product & Digital Channel Enhancement
+- *Product & Digital Channel Enhancement*
+  
 Opportunities to improve or incentivize under-used transaction modes (like online payments) and less popular card tiers (Platinum, Gold) can lift overall usage and engagement.
 
-Data-Driven Decision-Making
+- *Data-Driven Decision-Making*
+  
 Department heads and C-level executives gain a holistic, data-backed view of business performance—empowering cross-functional alignment around product design, marketing, operations, and risk management.
 
 Overall, this dashboard transforms raw credit card data into actionable knowledge—empowering business leaders to optimize revenue, elevate customer experience, and achieve an agile, customer-centric approach to credit card management.
