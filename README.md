@@ -21,12 +21,12 @@ Interactive dashboards for credit card transaction and customer analytics  with 
 
 The sample data structure includes fields commonly tracked in financial institutions and card management systems, such as:
 
-- *Card details*: Category (Blue, Silver, Gold, Platinum), transaction amount, transaction count, total revenue, total interest earned
+- *Card details*:  Category (Blue, Silver, Gold, Platinum), transaction amount, transaction count, total revenue, total interest earned
 
-- *Customer demographics*: ID, gender, age, marital status, education level, state, income group, occupation
+- *Customer demographics*:  ID, gender, age, marital status, education level, state, income group, occupation
 
-- *Behavioral and usage metrics*: Type of transaction (e.g., bills, entertainment, groceries), card usage type (swipe, chip, online)
+- *Behavioral and usage metrics*:  Type of transaction (e.g., bills, entertainment, groceries), card usage type (swipe, chip, online)
 
-- *Weekly & quarterly revenue records*: Revenue trends and transaction counts are tracked over weekly and quarterly intervals for time-based analysis
+- *Weekly & quarterly revenue records*:  Revenue trends and transaction counts are tracked over weekly and quarterly intervals for time-based analysis
 
-- *Churn & performance monitoring*: Churn data, customer status tracking, key financial KPIs such as CSS (Customer Satisfaction Score), and total income
+- *Churn & performance monitoring*:  Churn data, customer status tracking, key financial KPIs such as CSS (Customer Satisfaction Score), and total income
