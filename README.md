@@ -33,8 +33,7 @@ The sample data structure includes fields commonly tracked in financial institut
 
   ## Features & Highlights
   
-- *Comprehensive Revenue Monitoring*
-Track total revenue, interest earned, transaction amounts, and counts across all card categories (Blue, Silver, Gold, Platinum) for in-depth financial performance analysis.
+- *Comprehensive Revenue Monitoring* - Track total revenue, interest earned, transaction amounts, and counts across all card categories (Blue, Silver, Gold, Platinum) for in-depth financial performance analysis.
 
 - *Card Category Segmentation*
 Visualize and compare revenue, transaction activity, and customer distribution by card type (Blue, Silver, Gold, Platinum), helping to identify your most valuable segments.
