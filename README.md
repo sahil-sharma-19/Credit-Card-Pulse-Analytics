@@ -110,4 +110,6 @@ Opportunities to improve or incentivize under-used transaction modes (like onlin
   
 Department heads and C-level executives gain a holistic, data-backed view of business performance—empowering cross-functional alignment around product design, marketing, operations, and risk management.
 
+
+
 Overall, this dashboard transforms raw credit card data into actionable knowledge—empowering business leaders to optimize revenue, elevate customer experience, and achieve an agile, customer-centric approach to credit card management.
