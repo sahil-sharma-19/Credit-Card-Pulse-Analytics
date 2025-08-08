@@ -57,7 +57,6 @@ The sample data structure includes fields commonly tracked in financial institut
 
 ## Key Insights
 - *Blue Card Dominance*
-
 The Blue card category overwhelmingly drives revenue ($46M out of $55M total), far outpacing Silver, Gold, and Platinum tiers. Business strategies should prioritize Blue card engagement, upsell options, and retention.
 
 Customer Segmentation Drives Revenue
