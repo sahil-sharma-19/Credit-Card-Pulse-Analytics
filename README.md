@@ -30,7 +30,7 @@ The sample data structure includes fields commonly tracked in financial institut
 - *Weekly & quarterly revenue records*:  Revenue trends and transaction counts are tracked over weekly and quarterly intervals for time-based analysis
 
 - *Churn & performance monitoring*:  Churn data, customer status tracking, key financial KPIs such as CSS (Customer Satisfaction Score), and total income.
-
+  
   ## Features & Highlights
   
 - *Comprehensive Revenue Monitoring* - Track total revenue, interest earned, transaction amounts, and counts across all card categories (Blue, Silver, Gold, Platinum) for in-depth financial performance analysis.
