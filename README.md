@@ -113,3 +113,8 @@ Department heads and C-level executives gain a holistic, data-backed view of bus
 
 
 Overall, this dashboard transforms raw credit card data into actionable knowledge—empowering business leaders to optimize revenue, elevate customer experience, and achieve an agile, customer-centric approach to credit card management.
+
+## Dashboard Preview
+
+![Credit-Card-Pulse-Analytics](https://github.com/sahil-sharma-19/Credit-Card-Pulse-Analytics/blob/main/Snapshot%20of%20the%20Transaction%20Report.png)
+![Credit-Card-Pulse-Analytics]
